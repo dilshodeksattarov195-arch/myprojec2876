@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcetch",
+        "uuid": 9904944,
+        "checksum": "3j9lzf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
